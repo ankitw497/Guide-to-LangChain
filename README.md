@@ -15,3 +15,9 @@ This will be a beginner friendly to end to end LangChain guide.
 
 ## 3.1 Data Ingestion
 - Created document loader for different document types like text, pdf, website, arxiv, wikipedia. 
+
+
+
+
+### Credit:
+Complete Gen AI course by Krish Naik. 
