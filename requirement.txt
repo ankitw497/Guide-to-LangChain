@@ -5,3 +5,8 @@ langchain-community
 pypdf
 bs4
 faiss-cpu
+streamlit
+langchain-ollama
+arxiv
+pymupdf
+wikipedia
