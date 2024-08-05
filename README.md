@@ -16,7 +16,8 @@ This will be a beginner friendly to end to end LangChain guide.
 ## 3.1 Data Ingestion
 - Created document loader for different document types like text, pdf, website, arxiv, wikipedia. 
 
-
+## 3.2 Data Transformer
+- Notebooks to know understand different text spliter. 
 
 
 ### Credit:
