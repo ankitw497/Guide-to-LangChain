@@ -13,3 +13,4 @@ wikipedia
 lxml
 chromadb
 langchain_huggingface
+langchain_chroma
