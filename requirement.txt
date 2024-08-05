@@ -10,3 +10,4 @@ langchain-ollama
 arxiv
 pymupdf
 wikipedia
+lxml
