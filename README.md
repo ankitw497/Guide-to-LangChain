@@ -18,6 +18,21 @@ This will be a beginner friendly to end to end LangChain guide.
 
 ## 3.2 Data Transformer
 - Notebooks to know understand different text spliter. 
+    - Recursive Character Text Splitter
+    - Character Text Splitter
+    - HTML Text Splitter
+    - Recursive Json Splitter
+
+## 4 Embeddings
+- Notebook where embeddings are created for the splitted text
+    - OpenAI embedding
+    - Ollama embedding (Local Llama 3.1)
+    - Hugging Face embedding
+
+## 5 Vector Store
+- Notebook with code for vector store creation and retriever. 
+    - FAISS Vector store
+    - Chroma Vector store
 
 
 ### Credit:
