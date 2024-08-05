@@ -11,3 +11,5 @@ arxiv
 pymupdf
 wikipedia
 lxml
+chromadb
+langchain_huggingface
