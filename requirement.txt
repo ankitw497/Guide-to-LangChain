@@ -14,3 +14,5 @@ lxml
 chromadb
 langchain_huggingface
 langchain_chroma
+langchain_groq
+langchain_core
