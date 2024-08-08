@@ -34,6 +34,8 @@ This will be a beginner friendly to end to end LangChain guide.
     - FAISS Vector store
     - Chroma Vector store
 
+## 6 Chatboot
+- Notebook with code to create a chatbot with conversation history
 
 ### Credit:
 Complete Gen AI course by Krish Naik. 
