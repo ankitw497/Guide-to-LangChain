@@ -37,5 +37,8 @@ This will be a beginner friendly to end to end LangChain guide.
 ## 6 Chatboot
 - Notebook with code to create a chatbot with conversation history
 
+## Chat Bot APP
+- app.py has a streamlit app code for question and answer. 
+
 ### Credit:
 Complete Gen AI course by Krish Naik. 
